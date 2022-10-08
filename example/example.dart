@@ -1,8 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:json2dart/json2dart.dart';
-
+import 'package:json2dart/flutter_json_to_dart.dart';
 void main(List<String> args) {
   // Your json String
   String jsonString = '''

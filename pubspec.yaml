@@ -1,4 +1,4 @@
-name: json2dart
+name: flutter_json_to_dart
 description: Package to compile json to Dart code
 version: 1.0.0
 homepage: https://github.com/zTomz/Json2Dart
